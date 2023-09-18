@@ -10,3 +10,7 @@
 section {
   padding-top: 6rem;
 }
+
+svg {
+  margin-bottom: -1px;
+}
